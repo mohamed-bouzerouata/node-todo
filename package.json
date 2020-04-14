@@ -4,7 +4,7 @@
   "description": "simple todo application",
   "main": "server.js",
   "scripts": {
-    "start": "start server.js"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
